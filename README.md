@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **emohkipkirui756@gmail.com**
 
-- ⚡ Fun fact **I think I am wise**
+- ⚡ Fun fact **I can spot outliers in a dataset faster than I can spot a typo in a sentence.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
