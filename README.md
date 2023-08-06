@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amoskipkirui](https://github.com/Amoskipkirui)
 
-- 💬 Ask me about **Python and Flask, data analysis, machine learning algorithms, time series and recommendation systems, clustering and NLP, tableau**
+- 💬 Ask me about **Python and Flask, data analysis, machine learning algorithms, time series and recommendation systems, clustering and NLP, tableau, Excel, Power BI**
 
 - 📫 How to reach me **emohkipkirui756@gmail.com**
 
